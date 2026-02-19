@@ -36,14 +36,14 @@ Designing next-generation digital systems that connect identity, behavioral inte
   <tr>
     <td width="55%" valign="top">
 
-<h2>About</h2>
+      <h2>About</h2>
+      
+      I lead Digital Customer Experience initiatives within Go-to-Market at Workday, focused on modernizing enterprise engagement platforms through identity integration, experimentation-first operating models, and data-informed personalization.
+      
+      My work sits at the intersection of enterprise architecture, applied AI systems, and behavioral intelligence research—building production-grade systems that learn from interaction signals and improve decision-making over time.
 
-I lead Digital Customer Experience initiatives within Go-to-Market at Workday, focused on modernizing enterprise engagement platforms through identity integration, experimentation-first operating models, and data-informed personalization.
-
-My work sits at the intersection of enterprise architecture, applied AI systems, and behavioral intelligence research—building production-grade systems that learn from interaction signals and improve decision-making over time.
-
-    </td>
-    <td width="45%" valign="top">
+</td>
+<td width="45%" valign="top">
 
 <h2>Strategic Focus</h2>
 
@@ -55,7 +55,7 @@ My work sits at the intersection of enterprise architecture, applied AI systems,
   <li>Enterprise experimentation and adaptive personalization</li>
 </ul>
 
-    </td>
+</td>
   </tr>
 </table>
 
